@@ -30,5 +30,6 @@
       "name": "Pedro P",
       "email": "ppuppim@gmail.com"
     }
-  ]
+  ],
+  "minimum-stability": "stable"
 }
